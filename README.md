@@ -1,10 +1,16 @@
-# chefai
+# ChefAI
 My AI Chef that helps you create a recipe by using the ingridients you have at hand
 
 ## Future Capabilities
 
 - Voice Activation
 - Image recognition
+
+## Available Platforms
+
+- Android
+- IOS
+- Chrome
 
 ## Getting Started
 
