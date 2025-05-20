@@ -1,4 +1,6 @@
 # chefai
+My AI Chef that helps you create a recipe by using the ingridients you have at hand
+
 
 A new Flutter project.
 
